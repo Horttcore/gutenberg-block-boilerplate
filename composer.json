@@ -1,0 +1,13 @@
+{
+    "name": "horttcore/gutenberg-block-boilerplate",
+    "description": "A WordPress Gutenberg Block Boilerplate",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Ralf Hortt",
+            "email": "me@horttcore.de"
+        }
+    ],
+    "require": {}
+}
