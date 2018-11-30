@@ -2,7 +2,7 @@
     "name": "horttcore/gutenberg-block-boilerplate",
     "description": "A WordPress Gutenberg Block Boilerplate",
     "type": "wordpress-plugin",
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Ralf Hortt",
