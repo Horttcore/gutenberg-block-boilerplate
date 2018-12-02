@@ -16,8 +16,9 @@ A WordPress Gutenberg Block Boilerplate
 ## Setup
 
 * Search+Replace `gutenberg-block-boilerplate` with your project slug
-* Search+Replace `GutenbergBlockBoilerplate` with your php Namespace
+* Search+Replace `GutenbergBlockBoilerplate` with your php namespace
 * Search+Replace `Gutenberg Block Boilerplate` with your plugin name
+* Search+Replace `Gutenberg-Block-Boilerplate` with your package name
 * Run `yarn` or `npm install`
 
 ## Development
