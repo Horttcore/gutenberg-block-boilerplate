@@ -1,4 +1,4 @@
-# Gutenberg Block Boilerplate [![StyleCI](https://github.styleci.io/repos/153169154/shield?branch=master)](https://github.styleci.io/repos/153169154)
+# Gutenberg Block Boilerplate
 
 A WordPress Gutenberg Block Boilerplate
 
@@ -18,20 +18,21 @@ A WordPress Gutenberg Block Boilerplate
 * Search+Replace `gutenberg-block-boilerplate` with your project slug
 * Search+Replace `GutenbergBlockBoilerplate` with your php namespace
 * Search+Replace `Gutenberg Block Boilerplate` with your plugin name
-* Search+Replace `Gutenberg-Block-Boilerplate` with your package name
 * Run `yarn` or `npm install`
 
-## Development
+### Development
 
 * Run `yarn dev` to build development code
-* Run `yarn watch` to rebuild on file change
+* Run `yarn watch` to build development code with file watcher
 
-## Production
+### Production
 
 * Run `yarn production` to build production ready code
 
-## Changelog
+## Ideas
 
-### v0.1.0
-
-* Initial release
+* Replace scss with postcss
+* Add a post-project-create-cmd to automatically do the setup
+* Turning into a project plugin
+* Add service container
+* Add server side block registration
