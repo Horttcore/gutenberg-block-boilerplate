@@ -1,4 +1,4 @@
-# Gutenberg Block Boilerplate
+# Gutenberg Block Boilerplate [![StyleCI](https://github.styleci.io/repos/153169154/shield?branch=master)](https://github.styleci.io/repos/153169154)
 
 A WordPress Gutenberg Block Boilerplate
 
